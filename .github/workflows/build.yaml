@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: badgerowluke/.github/.github/workflows/ru-maven.yaml@main
+    uses: swogeti/.github/.github/workflows/ru-maven.yaml@main
