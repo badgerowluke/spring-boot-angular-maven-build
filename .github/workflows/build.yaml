@@ -1,0 +1,9 @@
+name: build maven
+on:
+  push:
+    branches: 
+      - main
+
+jobs:
+  call-workflow:
+    uses: badgerowluke/.github/.github/workflows/ru-maven.yaml@latest\
