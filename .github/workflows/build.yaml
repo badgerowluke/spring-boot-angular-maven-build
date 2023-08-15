@@ -6,4 +6,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: badgerowluke/.github/.github/workflows/ru-maven.yaml@latest\
+    uses: badgerowluke/.github/.github/workflows/ru-maven.yaml@latest
